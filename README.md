@@ -25,6 +25,8 @@ Examples:
 - `Rock_Stone_Cobble_Stairs` → `Rock_Stone_Brick_Stairs`
 - `Rock_Stone_Cobble_Wall` → `Rock_Sandstone_Brick_Wall`
 
+<img width="712" height="423" alt="image" src="https://github.com/user-attachments/assets/1918e9d5-6019-41f5-baf6-b88e07d1176b" />
+
 ## License
 
 **CC-BY-NC-SA 4.0**  
