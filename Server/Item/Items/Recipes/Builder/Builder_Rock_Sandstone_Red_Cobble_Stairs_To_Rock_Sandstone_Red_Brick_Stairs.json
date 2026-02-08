@@ -1,0 +1,27 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Sandstone_Red_Cobble_Stairs",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Rock_Sandstone_Red_Brick_Stairs",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Stairs"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  }
+}

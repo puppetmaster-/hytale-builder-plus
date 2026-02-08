@@ -1,0 +1,29 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Sandstone_Brick_Smooth_Half",
+        "Quantity": 2
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Rock_Sandstone_Brick_Smooth",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "SmoothHalfSlab"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}

@@ -1,0 +1,29 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Chalk_Brick_Wall",
+        "Quantity": 2
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Rock_Chalk_Brick",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Categories": [
+          "Wall"
+        ],
+        "Id": "Builders",
+        "Type": "StructuralCrafting"
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}

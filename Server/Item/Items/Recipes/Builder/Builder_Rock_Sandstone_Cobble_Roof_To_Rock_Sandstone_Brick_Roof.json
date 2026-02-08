@@ -1,0 +1,27 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Sandstone_Cobble_Roof",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Rock_Sandstone_Brick_Roof",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Roof"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Group": "puppetmaster",
+  "Name": "Builder+,
+  "Version": "0.1.0",
+  "Description": "add reverse or direct transformations for many common structural blocks",
+  "Authors": [
+    {
+      "Name": "Christian Fisch (puppetmaster)",
+      "Email": "",
+      "Url": "https://github.com/puppetmaster-"
+    }
+  ],
+  "Website": "https://github.com/puppetmaster-/hytale-builder-plus",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

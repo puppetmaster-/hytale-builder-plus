@@ -1,0 +1,27 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Marble_Cobble_Roof_Flat",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Rock_Marble_Brick_Roof_Flat",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Roof"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  }
+}
