@@ -23,5 +23,7 @@
     ],
     "OutputQuantity": 1,
     "TimeSeconds": 0
-  }
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
 }
