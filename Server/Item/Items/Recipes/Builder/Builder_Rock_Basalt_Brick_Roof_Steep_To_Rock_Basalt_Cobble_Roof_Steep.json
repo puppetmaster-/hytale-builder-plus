@@ -1,0 +1,29 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Basalt_Brick_Roof_Steep",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Rock_Basalt_Cobble_Roof_Steep",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Roof"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}
