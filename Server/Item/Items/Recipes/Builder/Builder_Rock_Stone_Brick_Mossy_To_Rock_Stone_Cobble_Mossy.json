@@ -2,13 +2,13 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Rock_Stone_Cobble_Mossy_Half",
-        "Quantity": 2
+        "ItemId": "Rock_Stone_Brick_Mossy",
+        "Quantity": 1
       }
     ],
     "Output": [
       {
-        "ItemId": "Rock_Stone_Mossy",
+        "ItemId": "Rock_Stone_Cobble_Mossy",
         "Quantity": 1
       }
     ],
@@ -17,7 +17,7 @@
         "Id": "Builders",
         "Type": "StructuralCrafting",
         "Categories": [
-          "HalfSlab"
+          "Bricks"
         ]
       }
     ],
