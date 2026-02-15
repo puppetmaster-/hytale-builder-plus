@@ -18,6 +18,9 @@ Examples:
 - `Wood_Lightwood_Wall` → `Wood_Lightwood_Planks`
 - `Rock_Stone_Cobble_Half` → `Rock_Stone_Cobble`
 
+<img width="712" height="428" alt="image" src="https://github.com/user-attachments/assets/bd1c2ac9-226d-49ac-b73a-b947a66d5120" />
+<img width="709" height="425" alt="image" src="https://github.com/user-attachments/assets/486312f0-8305-480f-b1cc-367ffefc07a0" />
+
 ### 2. Direct Material Conversion Recipes
 Upgrade or change material variants without dismantling everything.
 
