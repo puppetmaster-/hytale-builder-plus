@@ -1,0 +1,29 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Crystal_Purple_Large",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Ingredient_Crystal_Purple",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Decorative"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}
