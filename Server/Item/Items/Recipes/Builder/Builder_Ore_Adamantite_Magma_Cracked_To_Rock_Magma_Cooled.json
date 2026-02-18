@@ -1,0 +1,29 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ore_Adamantite_Magma_Cracked",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Rock_Magma_Cooled",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Block"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}

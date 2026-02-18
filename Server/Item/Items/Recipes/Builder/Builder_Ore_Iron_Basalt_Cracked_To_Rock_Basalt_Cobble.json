@@ -1,0 +1,29 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ore_Iron_Basalt_Cracked",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Rock_Basalt_Cobble",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Block"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}
