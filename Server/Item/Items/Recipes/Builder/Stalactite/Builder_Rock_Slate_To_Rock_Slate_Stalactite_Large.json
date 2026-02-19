@@ -2,7 +2,7 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Rock_Slate_Cobble",
+        "ResourceTypeId": "Rock_Slate",
         "Quantity": 1
       }
     ],

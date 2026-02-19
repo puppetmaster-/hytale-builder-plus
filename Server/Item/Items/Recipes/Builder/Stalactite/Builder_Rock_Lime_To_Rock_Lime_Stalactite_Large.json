@@ -2,13 +2,13 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Rock_Shale_Cobble",
+        "ResourceTypeId": "Rock_Lime",
         "Quantity": 1
       }
     ],
     "Output": [
       {
-        "ItemId": "Rock_Shale_Stalactites_Large",
+        "ItemId": "Rock_Lime_Stalactite_Large",
         "Quantity": 1
       }
     ],

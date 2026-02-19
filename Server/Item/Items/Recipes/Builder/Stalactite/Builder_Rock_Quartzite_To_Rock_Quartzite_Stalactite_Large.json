@@ -2,13 +2,13 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Rock_Marble_Cobble",
+        "ResourceTypeId": "Rock_Quartzite",
         "Quantity": 1
       }
     ],
     "Output": [
       {
-        "ItemId": "Rock_Marble_Stalactite_Small",
+        "ItemId": "Rock_Quartzite_Stalactite_Large",
         "Quantity": 1
       }
     ],
