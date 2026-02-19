@@ -2,13 +2,13 @@
   "Recipe": {
     "Input": [
       {
-        "ResourceTypeId": "Rock_Basalt",
+        "ItemId": "Soil_Clay_Ocean_Brick_Decorative",
         "Quantity": 1
       }
     ],
     "Output": [
       {
-        "ItemId": "Rock_Basalt_Stalactite_Small",
+        "ItemId": "Soil_Clay_Ocean_Brick",
         "Quantity": 1
       }
     ],
@@ -17,7 +17,7 @@
         "Id": "Builders",
         "Type": "StructuralCrafting",
         "Categories": [
-          "Stalactite"
+          "Decorative"
         ]
       }
     ],
