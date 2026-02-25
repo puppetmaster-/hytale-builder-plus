@@ -1,0 +1,29 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Deco_Rope_Diagonal",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Deco_Rope",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "StructuralCrafting",
+        "Id": "Builders",
+        "Categories": [
+          "Robe"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}
