@@ -30,6 +30,12 @@ Examples:
 
 <img width="712" height="423" alt="image" src="https://github.com/user-attachments/assets/1918e9d5-6019-41f5-baf6-b88e07d1176b" />
 
+## Bonus
+192 Hammer cycle states/shapes
+
+(Beam, Cloth, Crystal, Deco, Half, Plant, Roof, Rubble, Soil, Stairs, Stalactite, Trunk, Wall)
+![hytale_builder+9](https://github.com/user-attachments/assets/6df98c4f-b6b6-4a4d-be45-5de04ff7651e)
+
 ## License
 
 **CC-BY-NC-SA 4.0**  
