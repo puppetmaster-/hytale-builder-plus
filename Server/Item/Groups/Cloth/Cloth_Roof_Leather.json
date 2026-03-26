@@ -1,8 +1,10 @@
 {
   "Blocks": [
     "Cloth_Roof_Leather",
-    "Cloth_Roof_Leather_Flat",
+    "Cloth_Roof_Leather_Steep",
     "Cloth_Roof_Leather_Vertical",
-    "Cloth_Roof_Leather_Flap"
+    "Cloth_Roof_Leather_Flap",
+    "Cloth_Roof_Leather_Flat",
+    "Cloth_Roof_Leather_Shallow"
   ]
 }

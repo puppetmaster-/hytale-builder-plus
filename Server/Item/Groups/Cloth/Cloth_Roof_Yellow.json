@@ -1,8 +1,10 @@
 {
   "Blocks": [
     "Cloth_Roof_Yellow",
-    "Cloth_Roof_Yellow_Flat",
+    "Cloth_Roof_Yellow_Steep",
     "Cloth_Roof_Yellow_Vertical",
-    "Cloth_Roof_Yellow_Flap"
+    "Cloth_Roof_Yellow_Flap",
+    "Cloth_Roof_Yellow_Flat",
+    "Cloth_Roof_Yellow_Shallow"
   ]
 }

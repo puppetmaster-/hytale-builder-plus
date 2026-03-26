@@ -1,8 +1,10 @@
 {
   "Blocks": [
     "Cloth_Roof_Hide",
-    "Cloth_Roof_Hide_Flat",
+    "Cloth_Roof_Hide_Steep",
     "Cloth_Roof_Hide_Vertical",
-    "Cloth_Roof_Hide_Flap"
+    "Cloth_Roof_Hide_Flap",
+    "Cloth_Roof_Hide_Flat",
+    "Cloth_Roof_Hide_Shallow"
   ]
 }
