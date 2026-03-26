@@ -1,0 +1,30 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Wood_Palo_Trunk_Half",
+        "Quantity": 2
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Wood_Palo_Trunk",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "HalfSlab"
+        ],
+        "Set": "Wood_Palo"
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}

@@ -1,0 +1,30 @@
+{
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Wood_Fire_Trunk_Half",
+        "Quantity": 2
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Wood_Fire_Trunk",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "HalfSlab"
+        ],
+        "Set": "Wood_Fire"
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "HideFromSearch": true,
+  "Quality": "Template"
+}
