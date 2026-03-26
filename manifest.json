@@ -1,8 +1,8 @@
 {
   "Group": "puppetmaster",
   "Name": "Puppetmaster - Builder+",
-  "Version": "0.2.3",
-  "ServerVersion": "2026.02.19-1a311a592",
+  "Version": "0.3.0",
+  "ServerVersion": "2026.03.26-89796e57b",
   "Description": "add reverse or direct transformations for many common structural blocks",
   "Authors": [
     {
